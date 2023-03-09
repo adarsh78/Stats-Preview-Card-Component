@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
+## Overview 
 
 ### The challenge
 
@@ -34,7 +34,6 @@ Mobile:
 - Live Site URL: [Live Site](https://adarsh78.github.io/Stats-Preview-Card-Component/)
 
 ## My process
-
 ### Built with
 
 - Semantic HTML5 markup
